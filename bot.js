@@ -68,7 +68,7 @@ client.on('ready', function(){
             
            const adminprefix = ".";//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
-const devs = ['398555114652303370' , '451868808957788160'];//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
+const devs = ['398555114652303370' , '398555114652303370'];//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
 client.on('message', message => {//by ,$ ReBeL ء , ??#4777 'CODES SERVER'
 
@@ -328,4 +328,4 @@ msg.channel.sendEmbed(embed24)
 
 
 
-client.login('NDQ5NzU4ODQ5MTQzMDEzMzgw.DyAJyw.B97SonKK9J5Y6EY8m5Z65tnEubU');
+client.login('NDQ5NzU4ODQ5MTQzMDEzMzgw.DuqoBA.wV9lEI5oHWCO4zfjlXlbgibrFDU');
