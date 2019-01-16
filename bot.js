@@ -328,4 +328,4 @@ msg.channel.sendEmbed(embed24)
 
 
 
-client.login('NDQ5NzU4ODQ5MTQzMDEzMzgw.DuqoBA.wV9lEI5oHWCO4zfjlXlbgibrFDU');
+client.login('NDQ5NzU4ODQ5MTQzMDEzMzgw.DyAJyw.B97SonKK9J5Y6EY8m5Z65tnEubU');
