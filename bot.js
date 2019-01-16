@@ -326,6 +326,4 @@ msg.channel.sendEmbed(embed24)
    });
    
 
-
-
-client.login('NDQ5NzU4ODQ5MTQzMDEzMzgw.DuqoBA.wV9lEI5oHWCO4zfjlXlbgibrFDU');
+client.login(process.env.BOT_TOKEN);
