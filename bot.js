@@ -279,7 +279,7 @@ client.on("message", message => {
   client.on('message', async message => {
   if(message.content.startsWith(prefix + "1bc")) {
     let i = client.users.size;
-    if(message.author.id !== '451868808957788160') return message.channel.send('❎ » هذا الأمر مخصص لصاحب البوت فقط');
+    if(message.author.id !== '398555114652303370') return message.channel.send('❎ » هذا الأمر مخصص لصاحب البوت فقط');
     var args = message.content.split(' ').slice(1).join(' ');
     if(!args) return message.channel.send('❎ » يجب عليك كتابة الرسالة')
     setTimeout(() => {
